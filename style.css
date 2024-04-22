@@ -1,0 +1,29 @@
+
+.img{
+    width : 700px;
+    padding-top: 50px;
+  display : block;
+  margin : auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 16px;
+}
+
+.special{
+    text-align: center;
+    font-size: 26px;
+}
+
+.box{
+    width: 600px;
+    display: block;
+    margin : 10px auto; 
+    background-color: lavenderblush;
+    padding : 40px;
+    border-radius : 5px;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(232, 150, 255);
+}
+
